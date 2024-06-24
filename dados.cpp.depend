@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1718476252 source:c:\users\solci\onedrive\escritorio\programacion\1er cuatrimestre\juego\dados.cpp\main.cpp
+	<iostream>
+	"funciones,h.h"
+	"rlutil.h"
+	"dados.h"
+	<ctime>
+
+1718471311 source:c:\users\solci\onedrive\escritorio\programacion\1er cuatrimestre\juego\dados.cpp\funciones.cpp
+	<iostream>
+	"funciones,h.h"
+	"rlutil.h"
+
+1718459954 c:\users\solci\onedrive\escritorio\programacion\1er cuatrimestre\juego\dados.cpp\funciones,h.h
+
+1718458712 c:\users\solci\onedrive\escritorio\programacion\1er cuatrimestre\juego\dados.cpp\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718476252 source:c:\users\solci\onedrive\escritorio\programacion\1er cuatrimestre\juego\dados.cpp\dados.cpp
+	<iostream>
+	"dados.h"
+	"rlutil.h"
+
+1718476284 c:\users\solci\onedrive\escritorio\programacion\1er cuatrimestre\juego\dados.cpp\dados.h
+
+1718471311 c:\users\solci\onedrive\escritorio\programacion\1er cuatrimestre\juego\dados.cpp\dados.cpp
+	<iostream>
+	"dados.h"
+	"rlutil.h"
+
+1719189109 source:c:\users\sol15\documents\github\mispruebas\dados.cpp
+	<iostream>
+	"dados.h"
+	"rlutil.h"
+
+1719189602 c:\users\sol15\documents\github\mispruebas\dados.h
+
+1718849645 c:\users\sol15\documents\github\mispruebas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719189771 source:c:\users\sol15\documents\github\mispruebas\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dados.h"
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+
+1719189880 source:c:\users\sol15\documents\github\mispruebas\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+	"dados.h"
+	<ctime>
+	<cstdlib>
+
+1719185094 c:\users\sol15\documents\github\mispruebas\funciones.h
+
